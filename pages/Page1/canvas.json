@@ -74,7 +74,7 @@
               "placement": "CENTER"
             },
             {
-              "widgetName": "CategorySlider1",
+              "widgetName": "CategorySlider12",
               "displayName": "Category Slider",
               "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
               "labelText": "Size",

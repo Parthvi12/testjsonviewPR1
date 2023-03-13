@@ -7,6 +7,14 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Customer messaging Copy",
+      "isDefault": false
+    },
+    {
+      "id": "Images2",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -20,7 +28,11 @@
   "publishedAppLayout": {
     "type": "DESKTOP"
   },
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
